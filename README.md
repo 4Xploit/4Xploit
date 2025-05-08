@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hey, I'm 4Xploit
 
-<!--
-**4Xploit/4Xploit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> OffSec enthusiast.  
+> Future Red Teamer.
 
-Here are some ideas to get you started:
+## 🧠 About Me
+- 🎓 InfoTech student & aspiring OSCP
+- 💻 Focused on red teaming, CTFs, and offensive tooling
+- 🐧 Daily driver: Windows & Zorin + Kali VM
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Projects & Labs
+| Project              | Description                                                                 |
+|----------------------|-----------------------------------------------------------------------------|
+| `raspberry-pi-server`| Homelab on a Pi 5: UFW, Nginx, Lighttpd, Pi-hole, and more                 |
+| `kali-setup`         | Automating the ultimate Kali environment                                    |
+| `4xploit-notes`      | Notes, writeups, and prep for OSCP, Linux, and OffSec                      |
+
+## 📡 Currently Learning
+- Network configuration basics
+- Web development (HTML/CSS/JS)
+- Python scripting
+- Building self-hosted labs
+
+---
+
+> 🛡️ "Exploit or be exploited."
+
+
